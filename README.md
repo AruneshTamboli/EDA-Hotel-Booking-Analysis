@@ -1,5 +1,4 @@
-# Hotel-Booking-Analysis
-
+# Problem Statement
 
 Have you ever wondered when the best time of year to book a hotel room is? Or the optimal length of stay in order to get the best daily rate? What if you wanted to predict whether or not a hotel was likely to receive a disproportionately high number of special requests? This hotel booking dataset can help you explore those questions!
 
@@ -9,6 +8,24 @@ This data set contains booking information for a city hotel and a resort hotel, 
 
 Explore and analyze the data to discover important factors that govern the bookings.
 
+
+![image](https://user-images.githubusercontent.com/88345564/147145334-cf351b1a-7d67-4309-a947-f9fc1ccfcddb.png)
+
+
+# Approach Taken:
+
+* Data Wrangling
+
+* a. Data Cleaning 
+* i. Detecting null values 
+* ii. Replacing null values Zeros 
+* b. Handling Outliers
+
+* Year wise Comparison of Hotel Bookings
+* Total bookings cancelled
+* Booking types for Market segment
+* Number of night stays in hotels
+* Total number of special requests
 
 # Conclusion
 
