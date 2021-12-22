@@ -45,7 +45,7 @@ Explore and analyze the data to discover important factors that govern the booki
 
 * Number of special requests for City Hotel is higher than Resort Hotel.
 
-# Suggestions
+# Suggestions from EDA in order to boost Hotel Bookings
 * Hotels can avail some discount offers in Q1 and Q4 as Bookings rate is less in these quarters.
 
 * Hotels can promote their business online as most of the Bookings are coming from online portals.
